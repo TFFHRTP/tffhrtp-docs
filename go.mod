@@ -1,4 +1,4 @@
-module gitlab.com/fhrp/tffhrtp-website/tffhrtp-docs
+module gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs
 
 go 1.22.7
 

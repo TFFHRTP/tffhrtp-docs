@@ -130,7 +130,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://gitlab.com/fhrp/tffhrtp-website/tffhrtp-docs/-/tree/master/content"
+    base: "https://gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs/-/tree/master/content"
 
   blog:
     list:
