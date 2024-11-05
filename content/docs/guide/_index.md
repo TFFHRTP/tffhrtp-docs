@@ -7,7 +7,7 @@ sidebar:
   open: true
 ---
 
-Explore the following sections to learn how to use Hextra:
+Explore the following sections to learn how to use the configuration of the TFFHRTP Docs Site:
 
 <!--more-->
 
