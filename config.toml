@@ -15,7 +15,7 @@
 #theme = "ananke"
 theme = ["github.com/imfing/hextra"]
 
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://tffhrtp-docs-ba3ecc.gitlab.io/"
 title = "GitLab Pages and Hugo"
 contentdir    = "content"
 layoutdir     = "layouts"
