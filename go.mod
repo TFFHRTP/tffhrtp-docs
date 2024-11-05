@@ -1,5 +1,5 @@
-module gitlab.com/pages/hugo
+module gitlab.com/fhrp/tffhrtp-website/tffhrtp-docs
 
-go 1.20
+go 1.22.7
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 // indirect
+require github.com/imfing/hextra v0.8.6 // indirect

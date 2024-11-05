@@ -13,7 +13,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
 variables:
   HUGO_ENV: production
-  THEME_URL: "github.com/theNewDynamic/gohugo-theme-ananke"
+  THEME_URL: "github.com/imfing/hextra"
 
 default:
   before_script:
