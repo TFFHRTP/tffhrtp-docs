@@ -11,4 +11,3 @@ This is an example of a custom shortcode that you can put right into your conten
 
 Read more on [how to enable the contact form](https://github.com/theNewDynamic/gohugo-theme-ananke/#activate-the-contact-form).
 
-{{< form-contact action="https://example.com"  >}}
