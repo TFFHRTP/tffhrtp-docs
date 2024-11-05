@@ -2,7 +2,7 @@
 title: Markdown Syntax Guide
 date: 2020-01-01
 authors:
-  - name: imfing
+  - name: Matthew A. Davis
     link: https://github.com/imfing
     image: https://github.com/imfing.png
   - name: Octocat
