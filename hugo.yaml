@@ -145,7 +145,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs/-/tree/master/content"
 
   blog:
     list:
