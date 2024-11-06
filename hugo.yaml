@@ -29,7 +29,7 @@ module:
 
   workspace: hugo.work
   imports:
-    - path: github.com/imfing/hextra
+    - path: gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs-ui
 
 markup:
   goldmark:
@@ -109,9 +109,11 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
+    displayLicense: true
     width: normal
-
+    copyright: The Foundation for Human Rights through Photography
+    license: " | [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)"
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 

@@ -13,7 +13,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:latest
 
 variables:
   HUGO_ENV: production
-  THEME_URL: "github.com/imfing/hextra"
+  THEME_URL: "gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs-ui"
 
 default:
   before_script:
