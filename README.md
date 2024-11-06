@@ -1,1 +1,0 @@
-This is the [TFFHRTP Docs](https://docs.fhrp.org/) website.
