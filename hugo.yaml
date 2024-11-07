@@ -79,7 +79,7 @@ menu:
       url: "https://fhrp.org"
     - name: GitLab
       weight: 7
-      url: "https://gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs/"
+      url: "https://gitlab.com/tffhrtp/tffhrtp-website/docs-website/tffhrtp-docs"
       params:
         icon: gitlab
 
@@ -145,7 +145,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs/-/tree/master/content"
+    base: "https://gitlab.com/tffhrtp/tffhrtp-website/docs-website/tffhrtp-docs/-/tree/master/content"
 
   blog:
     list:
