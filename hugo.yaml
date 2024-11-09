@@ -1,5 +1,5 @@
 # Configuration
-baseURL: "https://tffhrtp-docs-7161c0.gitlab.io/ "
+baseURL: "https://tffhrtp-docs-7161c0.gitlab.io/"
 title: "TFFHRTP Docs"
 
 enableRobotsTXT: true
