@@ -77,11 +77,11 @@ menu:
     - name: Home
       weight: 6
       url: "https://fhrp.org"
-    - name: GitLab
+    - name: GitHub
       weight: 7
       url: "https://github.com/TFFHRTP/tffhrtp-docs"
       params:
-        icon: gitlab
+        icon: github
 
   sidebar:
     - identifier: more
